@@ -19,7 +19,6 @@
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/D/0P/T9H1NSZ4NGMIBDLX1V367S.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/C/DU/1ZA7RS806GLLRM8FDQSMVO.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/9/OQ/L18B2W3U5XPX267QA6USDQ.uasset",
-				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/7/7V/1OWL94YV18IKPW8KXGQ15W.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/F/1D/2NR21A95UM4HSYN8Q8B9XS.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/6/IQ/J7P1O6E504E76NPUWOQ58D.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/A/DE/0M3V7HJ1X0IA12MKAR1KFZ.uasset",
@@ -71,7 +70,10 @@
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/E/BI/HEG03P1VSYLAKP46E7DOSX.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/3/AU/NCTL4LX8JL8ROGVWK0JMHI.uasset",
 				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/A/ZC/M2KYPRQPY8T5ZX0TTBZURR.uasset",
-				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/Levels/MainMenu.umap"
+				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/Levels/MainMenu.umap",
+				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/_Eric/Blueprints/UI/WB_MainMenu.uasset",
+				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/Levels/Level1.umap",
+				"C:/Users/Eric/Desktop/Github/2D_Game/GameProject/Content/__ExternalActors__/Levels/MainMenu/7/7V/1OWL94YV18IKPW8KXGQ15W.uasset"
 			]
 		}
 	]
